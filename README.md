@@ -1,2 +1,3 @@
-# simulador_terminal_linux
-Simulador de terminal Linux
+# Simulador de Termina Linux
+
+Incompleto
